@@ -1,5 +1,7 @@
 // ==UserScript==
 // @name         One More Multiverse
+// @updateURL    https://github.com/ELITTK/OneMoreMultiverseI18n/raw/refs/heads/main/translator.user.js
+// @downloadURL  https://github.com/ELITTK/OneMoreMultiverseI18n/raw/refs/heads/main/translator.user.js
 // @namespace    https://github.com/ELITTK/OneMoreMultiverseI18n#
 // @version      0.1
 // @description  超简易汉化项目
